@@ -25,7 +25,7 @@ A web application that generates interview questions from uploaded documents usi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/interview-question-creator.git
+   git clone https://github.com/riaz37/interview_question_creator.git
    cd interview-question-creator
    ```
 
